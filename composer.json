@@ -1,0 +1,22 @@
+{
+    "name": "aprillins/filenamemodifier",
+    "description": "Get filename from URL or string with or without extension and add functionalities to modify it",
+    "license": "MIT",
+    "keywords": ["file", "filename", "extractor"],
+    "authors": [
+        {
+            "name": "aprillins the fox",
+            "email": "aprillins@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aprillins\\FModifier\\": "src"
+        }
+    }
+
+}
